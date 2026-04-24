@@ -10,5 +10,6 @@ public class Calculadora {
         Dividir dividir = new Dividir();
         System.out.println(dividir.calcular(10, 2));
         System.out.println("Palito con queso");
+        System.out.println("Pepinillos con salsa");
     }
 }
