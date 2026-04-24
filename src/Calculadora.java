@@ -9,5 +9,6 @@ public class Calculadora {
         System.out.println(multiplicar.calcular(5, 6));
         Dividir dividir = new Dividir();
         System.out.println(dividir.calcular(10, 2));
+        System.out.println("Palito con queso");
     }
 }
